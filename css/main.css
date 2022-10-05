@@ -1,0 +1,16 @@
+html {
+  background-color: #f3f0f0;
+}
+
+.navbar {
+  background-color: #f3f0f0;
+}
+.jamesn-icon {
+  width: 80px;
+  height: 80px;
+  opacity: 95%;
+}
+
+.jamesn-icon:hover {
+  opacity: 100%;
+}

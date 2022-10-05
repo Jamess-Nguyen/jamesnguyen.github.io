@@ -4,7 +4,13 @@ Web portfolio to showcase my experience, skills, and goals as an aspiring Fullst
 
 # Assignment 1
 
-blah blah blah
+References
+
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
+
+- https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
+- https://www.youtube.com/watch?v=NTmFHSjRjgU&ab_channel=CodingRiver
 
 # Technology Stack
 
