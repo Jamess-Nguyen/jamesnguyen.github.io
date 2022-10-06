@@ -30,3 +30,9 @@ header {
   color: black;
   opacity: 100%;
 }
+
+/* About */
+.container-bg {
+  background-color: #f3f0f0;
+  font-family: "Montserrat", sans-serif;
+}
