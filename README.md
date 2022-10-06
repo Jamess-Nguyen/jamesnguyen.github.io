@@ -12,6 +12,8 @@ References
 
 - https://www.youtube.com/watch?v=NTmFHSjRjgU&ab_channel=CodingRiver
 
+- https://stackoverflow.com/questions/42532511/how-to-use-specific-font-styles-with-css-from-google-fonts-ie-thin-extra-lig
+
 # Technology Stack
 
 - HTML CSS Js probably
