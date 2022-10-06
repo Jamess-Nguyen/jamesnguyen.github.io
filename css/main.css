@@ -1,12 +1,30 @@
-html {
+/* Basic tools */
+html body {
   background-color: #f3f0f0;
 }
 
 header {
   padding-left: 2rem;
   padding-right: 2rem;
-  padding-top: 0.5rem;
-  background-color: #f3f0f0;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  margin-bottom: 2rem;
+  background-color: #e2dfdf;
+}
+
+.basic-button {
+  background-color: #6fc5fe;
+  border: none;
+  border-radius: 8px;
+  height: 3rem;
+  width: 10rem;
+  color: white;
+}
+.check {
+  background-color: blue;
+}
+.vertical-center {
+  margin-top: 7.5%;
 }
 /* Navbar */
 .jamesn-icon {
@@ -35,4 +53,6 @@ header {
 .container-bg {
   background-color: #f3f0f0;
   font-family: "Montserrat", sans-serif;
+  color: rgb(40, 40, 40);
+  opacity: 100%;
 }
