@@ -11,6 +11,10 @@ header {
   padding-bottom: 0.2rem;
   margin-bottom: 2rem;
   background-color: #e2dfdf;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
 }
 
 .basic-button {
@@ -24,10 +28,27 @@ header {
 .check {
   background-color: blue;
 }
+
+#threeD {
+  height: 10%;
+}
+
+#id-check {
+  background-color: pink;
+}
 .vertical-center {
   margin-top: 7.5%;
 }
+
+.horizontal-center {
+  margin: 0 auto;
+  width: 30%;
+}
+
 /* Navbar */
+#navbar-spacer {
+  margin-top: 100px;
+}
 .jamesn-icon {
   width: 80px;
   height: 80px;
@@ -65,4 +86,33 @@ header {
   max-width: 85px;
   padding: 0;
   margin: 10px 15px 10px 15px;
+}
+
+/* Experience */
+.experience-blocks {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.experience-logo {
+  border-radius: 15px;
+  height: 150px;
+}
+
+.experience-text {
+  text-align: center;
+  width: 273px;
+  font-size: 1rem;
+}
+
+.experience-subtext {
+  text-align: center;
+  font-size: 0.9rem;
+  width: 273px;
+}
+
+@media (max-width: 850px) {
+  .horizontal-center {
+    margin: 0 auto;
+    width: 50%;
+  }
 }

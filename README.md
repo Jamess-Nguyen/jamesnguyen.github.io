@@ -16,6 +16,8 @@ Programming Refrences
 
 - https://stackoverflow.com/questions/42532511/how-to-use-specific-font-styles-with-css-from-google-fonts-ie-thin-extra-lig
 
+- https://stackoverflow.com/questions/114543/how-can-i-horizontally-center-an-element
+
 - https://stackoverflow.com/questions/41914954/how-to-force-a-fixed-column-width-with-a-bootstrap-grid-and-keep-the-other-ones
 
 - https://stackoverflow.com/questions/26296924/finding-out-the-correct-css-path
