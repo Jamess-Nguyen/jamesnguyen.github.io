@@ -16,6 +16,12 @@ Programming Refrences
 
 - https://stackoverflow.com/questions/42532511/how-to-use-specific-font-styles-with-css-from-google-fonts-ie-thin-extra-lig
 
+- https://stackoverflow.com/questions/41914954/how-to-force-a-fixed-column-width-with-a-bootstrap-grid-and-keep-the-other-ones
+
+- https://stackoverflow.com/questions/26296924/finding-out-the-correct-css-path
+
+- https://stackoverflow.com/questions/19496504/is-there-a-way-to-find-out-where-a-css-rule-is-coming-from
+
 Illustration Refrences
 
 - https://www.freepik.com/free-psd/business-man-illustration_24770152.htm#page=2&query=3d%20illustration&position=49&from_view=keyword

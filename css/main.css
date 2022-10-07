@@ -57,3 +57,12 @@ header {
   color: rgb(40, 40, 40);
   opacity: 100%;
 }
+
+#tool-box {
+  height: 85px;
+  background-color: #6fc5fe;
+  border-radius: 8px;
+  max-width: 85px;
+  padding: 0;
+  margin: 10px 15px 10px 15px;
+}
