@@ -82,7 +82,7 @@
     <!-- About Section -->
     <!-- About Header -->
     <div class="container-fluid" id="navbar-spacer">
-    <div class="row container-bg">
+    <div class="row container-bg" style="max-width: 90%;">
       <img
       src="assets/about/aboutjamesnguyen.png"
       alt="James Nguyen Img"
@@ -103,7 +103,7 @@
         Graduating in <b>December 2022</b> from <b>UCI</b> with a <b>B.S. in Software Engineering</b>
       </p>
       </div>
-      <button class="basic-button">
+      <button class="basic-button" id="build-button">
         Build With Me
       </button>
     </div>
@@ -113,7 +113,7 @@
     <h2 style="text-align: center;">Tech Stack</h2>
     <hr>
     <!-- Developer Tools -->
-    <div class="container">
+    <div class="container" style="max-width: 90%;">
       <div class="row" style="justify-content: center;">
         <img src="assets/techstack/python.png" alt="python logo" id="tool-box"/>
         <img src="assets/techstack/js.png" alt="js logo" id="tool-box"/>
@@ -143,37 +143,76 @@
     <!-- Experience Begin -->
     <h2 style="text-align: center; margin-top: 4rem;">Where I've Worked!</h2>
     <hr>
-    <div class="container-fluid" style="max-width: 85%;">
+    <div class="container-fluid" style="max-width: 90%;">
     <div class="row container-bg">
-    <div class="col-md-6 col-lg-6" style="padding: 40px">
+    <div class="col-md-6 col-lg-6">
       <div class="horizontal-center">
         <!-- Oit -->
         <div class="experience-blocks">
+          <a href="https://www.oit.uci.edu/" target="_blank">
           <img 
           src="assets/experience/oit.png" 
           class="experience-logo" 
           alt="oit"
+          id="oit"
           />
-          <div class="experience-text">UCI OIT</div>
-          <div class="experience-subtext">Student Developer</div>
+          </a>
+        </div>
+        <div>
+        <div class="experience-blocks">
+          <div class="experience-text">UCI-OIT</div>
+        </div>
+        <div class="experience-blocks">
+          <div class="experience-subtext">Student_Developer</div>
+        </div>
         </div>
 
         <!-- MLB -->
-        <div class="experience-blocks">
+        <div class="experience-blocks" style="padding-top:20px">
+          <a href="https://www.mlb.com/" target="_blank">
           <img 
           src="assets/experience/mlb.png" 
           class="experience-logo" 
           alt="mlb"
+          id="mlb"
           />
-          <div class="experience-text">MLB / Tickets.com</div>
-          <div class="experience-subtext">SWE Intern</div>
+          </a>
+        </div>
+        <div class="experience-blocks">
+          <div class="experience-text">MLB/Tickets.com</div>
+        </div>
+        <div class="experience-blocks">
+          <div class="experience-subtext">SWE_Intern</div>
         </div>
 
       </div>
     </div>
       <img src="assets/experience/experience-thinker.png" alt="James Nguyen Img" class="col-md-6 col-lg-6" id="threeD" style="padding: 40px"/>
     </div>
+    <!-- Experience End -->
 
+    <!-- Projects Begin -->
+    <h2 style="text-align: center; margin-top: 4rem;">Team Projects</h2>
+    <hr>
+    <div class="container" style="max-width: 95;">
+    <div class="row" style="justify-content: center;">
+      <img 
+      src="assets/projects/discord.png" 
+      class="col-xs-6 col-sm-6 col-md-6 col-lg-5 col-xl-5"
+      />
+      <img 
+      src="assets/projects/quizify.jpeg" 
+      class="col-xs-6 col-sm-6 col-md-6 col-lg-5 col-xl-5"
+      />
+    </div>
+    <div class="row" style="justify-content: center;">
+      <img 
+      src="assets/projects/discord.png" 
+      class="col-xs-6 col-sm-6 col-md-6 col-lg-5 col-xl-5"
+      />
+    </div>
+    </div>
+    </div>
     <!-- Boostrap Import -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
