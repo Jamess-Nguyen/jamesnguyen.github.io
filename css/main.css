@@ -138,6 +138,15 @@ header {
   opacity: 100%;
 }
 
+.project {
+  padding-bottom: 25px;
+  margin: 0;
+  opacity: 95%;
+}
+
+.project:hover {
+  opacity: 100%;
+}
 @media (max-width: 850px) {
   .horizontal-center {
     margin: 0 auto;
