@@ -139,9 +139,7 @@ header {
 }
 
 .project {
-  padding-bottom: 25px;
-  margin: 0;
-  opacity: 95%;
+  opacity: 90%;
 }
 
 .project:hover {
