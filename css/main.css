@@ -25,6 +25,7 @@ header {
   width: 10rem;
   color: white;
 }
+
 .check {
   background-color: blue;
 }
@@ -36,6 +37,7 @@ header {
 #id-check {
   background-color: pink;
 }
+
 .vertical-center {
   margin-top: 7.5%;
 }
