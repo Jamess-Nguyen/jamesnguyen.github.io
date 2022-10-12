@@ -1,4 +1,4 @@
---Readme document for _author_--
+--Readme document for James Nguyen (jamesn11) (18608664)--
 
 A reminder on academic integrity, as described in the syllabus.
 
