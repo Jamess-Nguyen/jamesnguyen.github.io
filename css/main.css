@@ -41,7 +41,7 @@ header {
 }
 
 .horizontal-center {
-  margin: 0 auto;
+  margin: 0px auto;
   width: 50%;
 }
 
@@ -81,7 +81,7 @@ header {
   background-color: #6fc5fe;
   border-radius: 8px;
   max-width: 85px;
-  padding: 0;
+  padding: 0px;
   margin: 10px 15px 10px 15px;
 }
 
