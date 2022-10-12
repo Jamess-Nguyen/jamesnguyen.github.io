@@ -18,12 +18,23 @@ header {
 }
 
 .basic-button {
+  display: inline-block;
+  border-radius: 8px;
   background-color: #6fc5fe;
   border: none;
-  border-radius: 8px;
-  height: 3rem;
-  width: 10rem;
   color: white;
+  width: 150px;
+  height: 40px;
+  text-decoration: none;
+  opacity: 85%;
+  text-align: center;
+  padding-top: 8px;
+}
+
+.basic-button:hover {
+  color: white;
+  text-decoration: none;
+  opacity: 100%;
 }
 
 .check {
