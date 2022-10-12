@@ -118,16 +118,6 @@ Programming Refrences
 
 - https://www.youtube.com/watch?v=u26pwddoWG8&ab_channel=SonarSystems
 
-Illustration Refrences
-
-- https://www.freepik.com/free-psd/business-man-illustration_24770152.htm#page=2&query=3d%20illustration&position=49&from_view=keyword
-
-- https://www.freepik.com/free-psd/3d-businesspeople-professional-team_13677899.htm#page=2&query=3d%20illustration&position=0&from_view=keyword
-
-- https://www.freepik.com/free-psd/abstract-3d-geometrical-squares-banner-3d-render-transparent-psd-file_24257897.htm#page=2&query=construction%203d&position=40&from_view=search&track=sph
-
-- https://www.freepik.com/free-psd/3d-female-character-thinking-about-something_13678509.htm#query=thinking%203d&position=0&from_view=search&track=sph
-
 # Technology Stack
 
 - HTML CSS Js probably
