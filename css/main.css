@@ -4,6 +4,13 @@ html body {
   font-family: "Montserrat", sans-serif;
 }
 
+.navbar {
+  height: 60px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  min-height:30px !important;
+}
+
 header {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -60,8 +67,8 @@ header {
 
 /* Navbar */
 .jamesn-icon {
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   opacity: 95%;
 }
 
@@ -117,7 +124,8 @@ header {
 }
 .experience-logo {
   border-radius: 15px;
-  height: 150px;
+  height: 250px;
+  margin: 20px;
 }
 
 .experience-text {
