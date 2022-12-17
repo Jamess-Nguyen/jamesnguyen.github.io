@@ -65,6 +65,13 @@ header {
   width: 50%;
 }
 
+.tech-icon {
+  width: 100px;
+  height: 100px;
+  padding: 8px;
+  border-radius: 15px;
+}
+
 /* Navbar */
 .jamesn-icon {
   width: 60px;
@@ -113,51 +120,20 @@ header {
   opacity: 100%;
 }
 
-/* Experience */
-.experience-blocks {
-  margin: 0 auto;
-  width: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  align-content: center;
-}
-.experience-logo {
-  border-radius: 15px;
-  height: 250px;
-  margin: 20px;
+.work-icon{
+  border-radius: 30px;
+  width: 100%;
+  opacity: 90%;
 }
 
-.experience-text {
-  text-align: center;
-  width: 273px;
-  font-size: 1rem;
-}
-
-.experience-subtext {
-  text-align: center;
-  font-size: 0.9rem;
-  width: 273px;
-}
-
-#oit {
-  opacity: 95%;
-}
-
-#oit:hover {
+.work-icon:hover{
   opacity: 100%;
 }
 
-#mlb {
-  opacity: 95%;
-}
-
-#mlb:hover {
-  opacity: 100%;
-}
 
 .project {
   opacity: 90%;
+  border-radius: 30px;
 }
 
 .project:hover {
