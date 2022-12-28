@@ -1,4 +1,4 @@
-# jamesnguyen.tech
+# jamesnguyen.xyz
 My personal portfolio website to showcase my expeirence, skills, and aspirations
 
 # Built With
@@ -10,4 +10,4 @@ My personal portfolio website to showcase my expeirence, skills, and aspirations
 * Adobe Creative Cloud: Illustrator, Photoshop, Figma
    
 # View the Site
-This site is hosted on a custom domain @ http://jamesnguyen.tech
+This site is hosted on a custom domain @ http://jamesnguyen.xyz
