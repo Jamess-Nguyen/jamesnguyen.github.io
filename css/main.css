@@ -4,6 +4,13 @@ html body {
   font-family: "Montserrat", sans-serif;
 }
 
+.navbar {
+  height: 60px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  min-height:30px !important;
+}
+
 header {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -18,13 +25,25 @@ header {
 }
 
 .basic-button {
+  display: inline-block;
+  border-radius: 8px;
   background-color: #6fc5fe;
   border: none;
-  border-radius: 8px;
-  height: 3rem;
-  width: 10rem;
   color: white;
+  width: 150px;
+  height: 40px;
+  text-decoration: none;
+  opacity: 85%;
+  text-align: center;
+  padding-top: 8px;
 }
+
+.basic-button:hover {
+  color: white;
+  text-decoration: none;
+  opacity: 100%;
+}
+
 .check {
   background-color: blue;
 }
@@ -36,19 +55,27 @@ header {
 #id-check {
   background-color: pink;
 }
+
 .vertical-center {
   margin-top: 7.5%;
 }
 
 .horizontal-center {
-  margin: 0 auto;
+  margin: 0px auto;
   width: 50%;
+}
+
+.tech-icon {
+  width: 100px;
+  height: 100px;
+  padding: 8px;
+  border-radius: 15px;
 }
 
 /* Navbar */
 .jamesn-icon {
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   opacity: 95%;
 }
 
@@ -81,7 +108,7 @@ header {
   background-color: #6fc5fe;
   border-radius: 8px;
   max-width: 85px;
-  padding: 0;
+  padding: 0px;
   margin: 10px 15px 10px 15px;
 }
 
@@ -93,58 +120,32 @@ header {
   opacity: 100%;
 }
 
-/* Experience */
-.experience-blocks {
-  margin: 0 auto;
-  width: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  align-content: center;
-}
-.experience-logo {
-  border-radius: 15px;
-  height: 150px;
+.work-icon{
+  border-radius: 30px;
+  width: 100%;
+  opacity: 90%;
 }
 
-.experience-text {
-  text-align: center;
-  width: 273px;
-  font-size: 1rem;
-}
-
-.experience-subtext {
-  text-align: center;
-  font-size: 0.9rem;
-  width: 273px;
-}
-
-#oit {
-  opacity: 95%;
-}
-
-#oit:hover {
+.work-icon:hover{
   opacity: 100%;
 }
 
-#mlb {
-  opacity: 95%;
-}
-
-#mlb:hover {
-  opacity: 100%;
-}
 
 .project {
   opacity: 90%;
+  border-radius: 30px;
 }
 
 .project:hover {
   opacity: 100%;
 }
-@media (max-width: 850px) {
+
+@media (max-width: 1028px) {
   .horizontal-center {
     margin: 0 auto;
     width: 50%;
+  }
+  .small-screen{
+    display: none;
   }
 }
