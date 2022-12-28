@@ -139,9 +139,13 @@ header {
 .project:hover {
   opacity: 100%;
 }
-@media (max-width: 850px) {
+
+@media (max-width: 1028px) {
   .horizontal-center {
     margin: 0 auto;
     width: 50%;
+  }
+  .small-screen{
+    display: none;
   }
 }
